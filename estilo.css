@@ -1,0 +1,60 @@
+body{
+
+	
+	
+	background: url(imagens/fundo1.jpg);
+
+	font-family: sans-serif;
+}
+
+#container{
+
+	
+	border-radius: 10px;
+ width: 410px;
+ height: 300px;
+ background-color: rgba(255,255,255, 0.5);
+ margin-top: 150px;
+ margin-left: 400px;
+ 
+}
+#container img {
+
+  margin-top: -80px;
+  margin-left: 110px;
+}
+input{
+	box-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+ 	text-align: center;
+ 	margin-top: 10px;
+	width: 200px;
+	height: 80%;
+	padding: 10px;
+	background-position: 10px;
+	background-size: 30px 30px;
+	background-repeat: no-repeat;
+}
+form{
+	margin-top: -100px;
+	padding: 120px 100px;
+}
+.botao{
+	box-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+	border-radius: 10px;
+	width: 220px;
+	background: linear-gradient(to bottom, #faa600,#f68a00) 
+	
+}
+
+input.email{
+	background-image: url(imagens/foto3.png);
+	border-radius: 20px;
+
+}
+
+input.senha{
+	background-image: url(imagens/foto4.png);
+	border-radius: 20px;
+
+}
+
